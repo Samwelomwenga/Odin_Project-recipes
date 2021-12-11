@@ -1,0 +1,68 @@
+h1{
+  
+    color: rgb(179, 37, 37);
+background-color: papayawhip;
+font-family: 'Times New Roman', Times, serif;
+font-style: oblique;
+text-transform:uppercase;
+
+}
+h2{
+    color: rgb(194, 23, 23);
+    font-family: sans-serif;
+    font-style: italic;
+    text-decoration:underline;
+    text-transform: uppercase;
+}
+.list{
+    color: yellow;
+    background-color: rgb(202, 130, 193);
+    width: 200px;
+  
+    
+}
+body{
+    background-color: pink;
+    color: rgb(177, 27, 64);
+    text-transform: capitalize;
+    justify-content: center;
+}
+.ingredient{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-style: dashed;
+    border-color: rgb(226, 16, 16);
+    border-width: 10px;
+    margin: 60px;
+    padding: 10px;
+    padding-top: 10px;
+    width: 300px;
+}
+  } 
+
+    td{
+        border-color: rgb(206, 14, 120);
+        border-style:groove;
+        
+    }
+    a:link{
+        text-decoration: none;
+    }
+    a:hover{
+        color: rgb(10, 107, 7);
+    }
+    a:active{
+        color:firebrick;
+    }
+    .tr-one{
+        color: rgb(153, 96, 22);
+    }
+    .td-three{
+        color: rgb(15, 133, 31);
+    }
+    .img{
+        align-items: center;
+        border: aqua;
+    }
